@@ -7,11 +7,27 @@
 .container{
     max-width: 1080px;
     display: flex;
+    margin: 0 auto;
     align-items: center;
-   
+   justify-content: center;
     
 }
 header{
  background-color: #09ac09;
  width: 100%;
+ 
+}
+
+.logo-imagem{
+    width: 45%;
+    height: auto;
+}
+footer {
+    text-align: center;
+    padding: 25px 0;
+    background-color: #09ac09;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
