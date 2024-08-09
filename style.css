@@ -13,22 +13,108 @@
     
 }
 header{
- background-color: #09ac09;
+ background-color: #b3c5b3;
  width: 100%;
  
 }
 
 .logo-imagem{
-    width: 45%;
+    width: 40%;
     height: auto;
 }
+.minha-div{
+    width: 100%;
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 260px;
+
+}
+
+.primeira {
+    width: 80%; 
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 20px; 
+    text-align: center; 
+
+}
+.imagem-dentro-div {
+    width: 100%; 
+    height: auto; 
+    border-radius: 8px;
+    
+}
+.titulo {
+    
+    text-align: center;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+    color:yellow;
+   
+}
+.texto1 {
+    text-align: justify;
+    text-align: center;
+    font-size: 15px;
+    color:black;
+}
+.segundai{
+    width: 50%; 
+    max-width: 50px;
+    margin: 0 auto; 
+    padding: 50px; 
+    text-align: center; 
+
+}
+.imagem2-dentro-div {
+    width: 40%; 
+    height: auto; 
+    border-radius: 8px;
+    
+}
+.titulo2{
+        text-align: center;
+        font-size: 20px;
+        font-family: "Oswald", sans-serif;
+        color:yellow;
+}
+
+.terceira{
+    width: 80%; 
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 20px; 
+    text-align: center;
+}
+.imagem3-dentro-div {
+    width: 100%; 
+    height: auto; 
+    border-radius: 8px;
+    
+}
+.titulo3{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+    color:yellow;
+}
+.titulo4{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+    color:yellow;
+
+}
+
+
 footer {
     text-align: center;
     padding: 25px 0;
     background-color: #09ac09;
     color: #fff;
-    position: fixed;
+    position:relative;
     bottom: 0;
     width: 100%;
+    font-size: 12px;
 }
-
