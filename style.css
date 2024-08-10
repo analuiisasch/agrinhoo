@@ -10,7 +10,8 @@
     margin: 0 auto;
     align-items: center;
    justify-content: center;
-    
+   background-color: #09ac09;
+  
 }
 header{
  background-color: #09ac09;
@@ -19,26 +20,34 @@ header{
 }
 
 .logo-imagem{
-    width: 40%;
-    height: auto;
+    width: 50;
+    height:auto;
+    align-items: center;
+   
 }
 .minha-div{
     width: 100%;
     padding: 20px;
-    background-color: #fff;
+    background-color: #e9da07;
     text-align: center;
     margin-bottom: 260px;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+     
+      
 
 }
 
 .primeira {
-    width: 80%; 
+    width: 40%; 
     max-width: 600px;
     margin: 0 auto; 
-    padding: 20px; 
+    padding-bottom: 20px; 
     text-align: center; 
-
+    
 }
+
 .imagem-dentro-div {
     width: 100%; 
     height: auto; 
@@ -58,6 +67,8 @@ header{
     text-align: center;
     font-size: 15px;
     color:black;
+      
+
 }
 .segundai{
     width: 50%; 
@@ -120,8 +131,8 @@ header{
 footer {
     text-align: center;
     padding: 25px 0;
-    background-color: #09ac09;
-    color: #fff;
+    background-color: #e9da07;
+    color: #000000;
     position:relative;
     bottom: 0;
     width: 100%;
