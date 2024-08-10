@@ -4,15 +4,16 @@
     box-sizing: border-box;
 }
 
-.container{
+.container-main-01{
     max-width: 1081px;
     display: flex;
-    margin: 1 auto;
+    margin: auto;
     align-items: center;
    justify-content: center;
    background-color: #09ac09;
-  
+
 }
+
 header{
  background-color: #09ac09;
  width: 100%;
@@ -20,7 +21,7 @@ header{
 }
 
 .logo-imagem{
-    width: 50;
+    width: 100%;
     height:auto;
     align-items: center;
    
@@ -137,4 +138,5 @@ footer {
     bottom: 0;
     width: 100%;
     font-size: 12px;
+
 }
